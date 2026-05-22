@@ -1,4 +1,4 @@
-# Intelligent Document Intelligence Platform (RAG-Powered Q&A Engine)
+# SmartDoc-AI-Assistant (RAG-Powered Q&A Engine)
 
 ## Overview
 
